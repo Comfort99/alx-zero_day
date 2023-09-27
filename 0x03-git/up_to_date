@@ -1,1 +1,5 @@
+<<<<<<< HEAD:0x03-git/up_to_date
 git pull origin
+=======
+git pull origin master
+>>>>>>> 2c8f8b12c0072b66f5bb895aef60c35540ac7161:0x01-git/up_to_date
